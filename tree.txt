@@ -1,0 +1,23 @@
+.
+├── cmd
+│   ├── agent
+│   │   └── main.go
+│   ├── builder
+│   │   └── main.go
+│   └── client
+│       └── main.go
+├── go.mod
+├── go.sum
+├── internal
+│   ├── config
+│   │   ├── config.go
+│   │   └── service.go
+│   ├── redisclient
+│   │   ├── client.go
+│   │   └── manager.go
+│   └── remote
+│       └── github.go
+├── README.md
+└── tree.txt
+
+9 directories, 12 files
